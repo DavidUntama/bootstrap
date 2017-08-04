@@ -3,12 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Trabajando con bootstrap</title>
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<?php include 'inc/head_common.php'; ?>
 </head>
 <body>
 	<h1>bootstrap ejemplo</h1>
 	<p>Hola mundo</p>
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<?php include 'inc/footer_common.php'; ?>
 </body>
 </html>
