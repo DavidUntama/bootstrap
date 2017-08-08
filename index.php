@@ -23,7 +23,7 @@
 	<pre>correo de la empresa on line</pre>
 
 	<p>aqui se agregara el nuevo footer que requiee la empresa</p>
-	<i>esto es ta en italica</i>
+	<i>esto es ta en negrita</i>
 
 	<?php include 'inc/footer_common.php'; ?>
 </body>
