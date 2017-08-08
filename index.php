@@ -18,6 +18,7 @@
 	</div>
 	<h1>bootstrap ejemplo</h1>
 	<p>Hola mundo</p>
+	<strong> puedes escribirnos al correo david.uhx64@gmail.com</strong>
 	<?php include 'inc/footer_common.php'; ?>
 </body>
 </html>
