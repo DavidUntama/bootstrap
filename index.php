@@ -19,6 +19,10 @@
 	<h1>bootstrap ejemplo</h1>
 	<p>Hola mundo</p>
 	<strong> puedes escribirnos al correo david.uhx64@gmail.com</strong>
+
+	<p>aqui se agregara el nuevo footer que requiee la empresa</p>
+	<i>esto es ta en italica</i>
+
 	<?php include 'inc/footer_common.php'; ?>
 </body>
 </html>
