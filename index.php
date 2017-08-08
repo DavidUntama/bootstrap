@@ -24,6 +24,7 @@
 
 	<p>aqui se agregara el nuevo footer que requiee la empresa</p>
 	<b>esto es en negrita aunte podria ser italica o cursiva</b>
+	esto esta en master
 
 	<?php include 'inc/footer_common.php'; ?>
 </body>
