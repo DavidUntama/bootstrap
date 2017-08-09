@@ -17,17 +17,6 @@
 		</div>
 	</div>
 	<h1>bootstrap ejemplo</h1>
-	<p>Hola mundo</p>
-	<strong> puedes escribirnos al correo david.uhx64@gmail.com</strong>
-
-	<pre>correo de la empresa on line</pre>
-
-	<p>aqui se agregara el nuevo footer que requiee la empresa</p>
-	<b>esto es en negrita aunte podria ser italica o cursiva</b>
-
-	esto esta en prueba
-
-
 	<?php include 'inc/footer_common.php'; ?>
 </body>
 </html>
